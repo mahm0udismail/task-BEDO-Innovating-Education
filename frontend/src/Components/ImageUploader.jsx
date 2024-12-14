@@ -47,7 +47,6 @@ const ImageUploader = () => {
       <div className="text-center w-100">
         <h1 className="mb-4">Cat and Dog Classifier</h1>
 
-        {/* Image Preview */}
         {imagePreview && (
           <div className="mb-4">
             <img 
